@@ -32,8 +32,6 @@ Probably working on something big.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bugrick-dev&theme=tokyonight" alt="GitHub Streak" />
 
-<img src="https://profile-counter.glitch.me/bugrick-dev/count.svg?" alt="visitors count" />
-
 ## GitHub Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bugrick-dev&radius=16&theme=rogue&area=true&order=5" height="300" alt="activity-graph" />
