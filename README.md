@@ -26,10 +26,6 @@ Probably working on something big.
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=bugrick-dev&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugrick-dev&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bugrick-dev&theme=tokyonight" alt="GitHub Streak" />
 
 ## GitHub Activity Graph
