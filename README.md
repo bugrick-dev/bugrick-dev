@@ -1,7 +1,7 @@
 # Hey, I'm Buğra!
 ### Full Stack Developer
 
-I love music, programming and beer.
+
 Probably working on something big.
 
 ## Skills
@@ -23,12 +23,4 @@ Probably working on something big.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>&nbsp;
 </p>
-
-## GitHub Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bugrick-dev&theme=tokyonight" alt="GitHub Streak" />
-
-## GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bugrick-dev&radius=16&theme=rogue&area=true&order=5" height="300" alt="activity-graph" />
 
